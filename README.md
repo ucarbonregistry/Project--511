@@ -181,3 +181,44 @@ CERs requested from 01 Jan 2013 until 31 December 2020: 30675
 
 Serial Range: Block start: IN-5-292171578-2-2-0-1286      Block end: IN-5-292202252-2-2-0-1286
 _____________________
+UCR ISSUANCE DATE: 16/09/2025
+
+QTY: 144395
+
+MP-01: 01/07/2020-31/12/2024
+______________
+Serial Number: 0001-000001-020220-UCR-CoU-IN-511-01072020-31122020
+
+Vintage Year: 2020
+
+Quantity: 20220
+_____________
+Serial Number: 0001-020221-053760-UCR-CoU-IN-511-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 33540
+__________
+Serial Number: 0001-053761-085793-UCR-CoU-IN-511-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 32033
+____________
+Serial Number: 0001-085794-117192-UCR-CoU-IN-511-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 31399
+_______
+Serial Number: 0001-123330-144395-UCR-CoU-IN-511-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 27203
+___________
+
+
+
+
+
